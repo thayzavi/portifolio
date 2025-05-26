@@ -325,6 +325,9 @@ footer .line-footer p a{
     section.topo-do-site .flex {
         gap: 40px;
     }
+    .topo-do-site .img-topo-site img{
+        height: 25rem;
+    }
 
     section.topo-do-site {
         padding: 20px 8%;
