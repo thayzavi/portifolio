@@ -241,6 +241,7 @@ section.sobre .flex{
     justify-content: center;
     gap:24px;
     margin-top: 32px;
+    margin-bottom: 40px;
 }
 .dish{
     display: flex;
